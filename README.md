@@ -33,3 +33,6 @@ dont 1
 * Words are separated by whitespace
 * Punctuation and capitalization are irrelevant w/ respect to equality. (Ex. I'm == im)
 * Words only contain alphabetic characters. Non alphabetic characters are simply ignored.
+
+## Testing
+`./gradlew test`
